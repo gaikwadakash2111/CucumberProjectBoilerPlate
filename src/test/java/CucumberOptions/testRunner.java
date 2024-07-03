@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		   features="src/test/java/FeatureFiles",
 		   glue="StepDefinitions",
-		   tags = "@smoketest"
+		   tags = "@scenario1"
 		)
 
 
